@@ -20,9 +20,11 @@ This is an app that allows a user, including small business owners, to store not
 
 This app can be used by clicking on the deployed Heroku link.
 
-[Link to Deployed app on Heroku!]()    
+[Link to Deployed app on Heroku!](https://powerful-sierra-06167.herokuapp.com/)   
 
-![Screenshot demonstrating the usage]()
+
+![Screenshot demonstrating the usage](Assets/note1.GIF)
+![Screenshot demonstrating the usage](Assets/note2.GIF)
 
     
 ## License
